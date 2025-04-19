@@ -1,0 +1,24 @@
+{
+  "name": "js-tools",
+  "version": "1.0.0",
+  "description": "js小工具收集",
+  "main": "FindPriveteModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guakeliao/JS-Tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guakeliao/JS-Tools/issues"
+  },
+  "homepage": "https://github.com/guakeliao/JS-Tools#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "https-proxy-agent": "^7.0.6",
+    "npm-conf": "^1.1.3"
+  }
+}
